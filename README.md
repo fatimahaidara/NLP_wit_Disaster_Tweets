@@ -8,7 +8,7 @@ Within this context explained above, this project has the goal to build a machin
 Within this context explained above, this project has the goal to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t, with access to a dataset of 10,000 tweets that were hand classified (NLP with Disaster Tweets).
 You are predicting whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0.
 
-Our team's name F_A_F team accurate with 0.81 in the kaggle compettion.
+Our team's name F_A_F team accurate with0.81458 in the kaggle compettion.
 
 
 ![Twitter](https://github.com/fatimahaidara/NLP_wit_Disaster_Tweets/blob/main/tweet.png)
